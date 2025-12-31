@@ -1,10 +1,4 @@
-// import mongoose from "mongoose"
 
-
-// export const connectDB =async()=>{
-//     await mongoose.connect('mongodb+srv://waru:waru2002@cluster0.mchs21o.mongodb.net/taskflow1')
-//     .then(()=>console.log('DB CONNECTED'))
-// }
 
 import mongoose from "mongoose";
 
