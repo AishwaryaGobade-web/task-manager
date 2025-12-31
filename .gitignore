@@ -1,0 +1,12 @@
+# Ignore node modules (backend + frontend)
+node_modules/
+
+# Ignore environment variables
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# OS files
+.DS_Store
